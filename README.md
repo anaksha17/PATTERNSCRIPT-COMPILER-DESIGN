@@ -29,8 +29,7 @@ PatternScript is a mini-language for generating mathematical sequences like Fibo
 6. **Code Execution** - Interpreter
 
 **Course:** Compiler Construction  
-**Institution:** [Your University]  
-**Team:** [Your Names]
+
 
 ---
 
