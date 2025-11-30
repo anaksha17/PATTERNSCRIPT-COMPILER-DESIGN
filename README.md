@@ -12,8 +12,8 @@
 
 [![Demo Video](https://img.shields.io/badge/▶️_Watch_Demo-YouTube-red?style=for-the-badge)](YOUR_VIDEO_LINK_HERE)
 
-> **Video Link:** `YOUR_VIDEO_LINK_HERE`  
-> **Duration:** XX minutes
+> **Video Link:** https://drive.google.com/file/d/1dbCDNa6ZIiAAqd87HwzrwQnRxVuZn85N/view?usp=sharing  
+> **Duration:** 2 minutes
 
 ---
 
@@ -198,9 +198,8 @@ PatternScript_Compiler/
 │   └── example3_squares.ps
 │
 ├── handwritten_artifacts/     # Documentation
-│   ├── dfa_diagram.pdf
-│   ├── parse_trees.pdf
-│   └── symbol_tables.pdf
+│   ├── Documentation.pdf
+│   
 │
 ├── README.md                  # This file
 └── LICENSE                    # MIT License
